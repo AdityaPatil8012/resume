@@ -49,6 +49,7 @@ h3{
   margin: 0px 5px;
   color: grey;
   transition: color 0.25s;
+  cursor: pointer;
 }
 
 .connect:hover{
